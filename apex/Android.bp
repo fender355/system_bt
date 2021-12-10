@@ -17,7 +17,6 @@ apex {
       "libbluetooth_jni",
       "libbluetooth"
     ],
-    apps: ["Bluetooth"],
 
     compile_multilib: "both",
 
